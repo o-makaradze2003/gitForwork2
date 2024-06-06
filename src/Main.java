@@ -8,6 +8,5 @@ public  class Main {
     System.out.println("Name: "+dg.name);
     System.out.println("age: "+dg.age);
     dg.makeSound();
-
     }
 }
